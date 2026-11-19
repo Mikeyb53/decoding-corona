@@ -1,0 +1,15 @@
+# Python packages (notebook was developed in Google Colab with a GPU runtime)
+pandas
+numpy
+matplotlib
+opencv-python
+pytesseract
+pdf2image
+spacy
+transformers
+torch
+networkx
+geopandas
+cartopy
+# System packages: tesseract-ocr, poppler-utils
+# spaCy model: python -m spacy download en_core_web_sm
